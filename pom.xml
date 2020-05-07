@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion> 
 
   <groupId>com.kctechnologies</groupId>
-  <artifactId>maven-web-project-1</artifactId>
+  <artifactId>maven-web-project-2</artifactId>
   <packaging>war</packaging>
   <version>1.0-SNOPSHOT</version>
   <name>Maven Web Project</name>
