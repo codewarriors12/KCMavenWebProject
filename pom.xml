@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion> 
 
   <groupId>com.kctechnologies</groupId>
-  <artifactId>maven-web-project-2</artifactId>
+  <artifactId>maven-web-project-4</artifactId>
   <packaging>war</packaging>
   <version>1.0-SNOPSHOT</version>
   <name>Maven Web Project</name>
@@ -83,12 +83,12 @@
         <repository>
           <id>nexus</id>
           <name>KC Tech Releases Nexus Repository</name>
-          <url>http://34.226.221.77:8081/repository/project/</url>
+          <url>http://35.175.226.127:8081/repository/project/</url>
         </repository>
         <snapshotRepository>
           <id>nexus</id>
           <name>KC Tech Snapshot Nexus Repository </name>
-           <url>http://34.226.221.77:8081/repository/project2/</url>
+           <url>http://35.175.226.127:8081/repository/project2/</url>
         </snapshotRepository>
    </distributionManagement>
 	
